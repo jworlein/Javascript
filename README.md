@@ -8,7 +8,7 @@ There is just one tiny problem though... our collection is too large to search t
 
 That's why we are hiring you. We need you to write code that will create a table dynamically based upon a [dataset we provide](StarterCode/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
-You can handle this... right? The planet Earth needs to know what we have found!
+You can handle this... right? The planet Earth needs to know what we have found! 
 
 ## Your Task
 
